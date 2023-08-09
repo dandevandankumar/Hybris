@@ -1,0 +1,24 @@
+Swagger is also called open API. From dotnet 6 version by creating donet web Api project it takes swapper automatically.
+request and resposonse of the API would be in jSON format. This open API is used to view whats the meaning of that API in english words. We will define the API in our code using comments so that it will display in open API website. Swagger has all the documentation of API. 
+
+dotnet 6 has swagger generation extension
+
+[
+  {
+    "Name": "John",
+    "Age": 25
+  },
+  {
+    "Name": "Jane",
+    "Age": 30
+  }
+]
+
+
+install package entity framework from nuget package manager
+
+ADO.net defines the mapping between database tables and the domain classes
+
+database first.. code first.. define database tables first and defines code first
+
+Database first workflow - EDMS designer
